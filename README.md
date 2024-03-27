@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tamires Frota
+Hi, I’m Tamires Frota!
 
 
 <!---
